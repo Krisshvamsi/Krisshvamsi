@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Deep Learning projects
+- 🔭 I’m currently working on a Deep Learning project
 - 👯 I’m pursuing my graduate from SNIST,Hyderabad
 - 🌱 I’m currently doing courses on data science and AI
 - 📫 How to reach me: krishnavamsirokkam2001@gmail.com 
