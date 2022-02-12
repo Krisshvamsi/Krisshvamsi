@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Deep Learning project
+
 - 👯 I’m pursuing my under graduate studies from SNIST,Hyderabad
-- 🌱 I’m currently doing courses on data science and AI, and would like to collaborate on any deep learning and data science projects
 - View my published research paper on Predictive Analysis of BMI using captured image analysis by CNN @https://jmpas.com/download/article/1640955658JMPAS_NOVEMBER-DECEMBER_2021.pdf
 - 📫 How to reach me: krishnavamsirokkam2001@gmail.com 
